@@ -94,7 +94,7 @@ int main()
 		}
 	}
 	
-	printf("\nTHANKYOU YOU FOR USING\nDEVELOPED BY:\nRAHUL VERMA \n11811619\nK18lE");
+	printf("\nTHANKYOU YOU FOR USING\nDEVELOPED BY:\nRAHUL VERMA \n11811619\nK18LE");
 	return 0;
 }
 
